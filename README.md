@@ -1,6 +1,6 @@
 # Automated Training of Password Cracking Tools
 
-This repository collects data and scripts of paper "Automated Training of Password Cracking Tools".
+This repository collects data and scripts of the paper "Automated Training of Password Cracking Tools".
 
 ## Mask attacks
 
