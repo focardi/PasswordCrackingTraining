@@ -12,7 +12,7 @@ This repository collects data and script of paper "Automated Training of Passwor
 
 ## Rule-based attacks
 
-- TRule.rule: Rules trained using all the rule sets provided in the hashcat distribution plus OneRuleToRuleThemAll and popular.rule of pantagrule, sorted by descending frequencies
-- TRule_freq.rule: As above with frequencies
-- TRule2.rule: Rules trained using the the 3726 best rules of TRule and TrainDic_D
-- TRule2_freq.txt: As above with frequencies
+- [TRule.rule](https://github.com/focardi/PasswordCrackingTraining/blob/master/rules/TRule.rule): Rules trained using all the rule sets provided in the hashcat distribution plus OneRuleToRuleThemAll and popular.rule of pantagrule, sorted by descending frequencies
+- [TRule_freq.rule](https://github.com/focardi/PasswordCrackingTraining/blob/master/rules/TRule_freq.rule): As above with frequencies
+- [TRule2.rule](https://github.com/focardi/PasswordCrackingTraining/blob/master/rules/TRule2.rule): Rules trained using the the 3726 best rules of TRule and TrainDic_D
+- [TRule2_freq.txt](https://github.com/focardi/PasswordCrackingTraining/blob/master/rules/TRule2_freq.rule): As above with frequencies
