@@ -4,7 +4,7 @@ This repository collects data and script of paper "Automated Training of Passwor
 
 ## Mask attacks
 
-- [guesses.py](https://github.com/focardi/PasswordCrackingTraining/blob/master/masks/guesses.py): computes the numer of guesses for a give password using trained masks
+- [guesses.py](https://github.com/focardi/PasswordCrackingTraining/blob/master/masks/guesses.py): computes the number of guesses for a give password using trained masks
 - [simulation_mask_attack.py](https://github.com/focardi/PasswordCrackingTraining/blob/master/masks/simulation_mask_attack.py): simulate a mask attack using trained masks and tested masks
 - [testing_statsgen.txt.gz](https://github.com/focardi/PasswordCrackingTraining/blob/master/masks/testing_statsgen.txt.gz): masks computed by Test_D (gzipped)
 - [training_statsgen.txt.gz](https://github.com/focardi/PasswordCrackingTraining/blob/master/masks/training_statsgen.txt.gz): masks computed by Train_D (gzipped)
