@@ -8,6 +8,7 @@ This repository collects data and scripts of paper "Automated Training of Passwo
 - [simulation_mask_attack.py](https://github.com/focardi/PasswordCrackingTraining/blob/master/masks/simulation_mask_attack.py): simulate a mask attack using trained masks and tested masks
 - [testing_statsgen.txt.gz](https://github.com/focardi/PasswordCrackingTraining/blob/master/masks/testing_statsgen.txt.gz): masks computed by Test_D (gzipped)
 - [training_statsgen.txt.gz](https://github.com/focardi/PasswordCrackingTraining/blob/master/masks/training_statsgen.txt.gz): masks computed by Train_D (gzipped)
+- [uncracked_statsgen.txt.gz](https://github.com/focardi/PasswordCrackingTraining/blob/master/masks/uncracked_statsgen.txt.gz): masks computed by the passwords that could not be cracked using TRule2.rule rule-based attack
 - [training_statsgen_sorted.txt.gz](https://github.com/focardi/PasswordCrackingTraining/blob/master/masks/training_statsgen_sorted.txt.gz): masks sorted by |m|/f used in guesses.py (gzipped)
 
 ## Rule-based attacks
