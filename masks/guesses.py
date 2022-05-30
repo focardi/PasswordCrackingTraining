@@ -1,9 +1,17 @@
 import re
 import sys
 
+print(f'>> Password guessability through masks <<')
+print('''
+Only works with well-formed passwords which are 6-20 characters long 
+and only include printable ASCII characters except space, tab and other 
+control characters.
+
+Remember to: gunzip training_statsgen_sorted.txt.gz
+''')
+
 if len(sys.argv) < 2:
-    print(f'** Password guessability through masks **')
-    print(f'   Usage: python3 {sys.argv[0]} password')
+    print(f'   >> Usage: python3 {sys.argv[0]} password')
     exit(1)
 
 password=sys.argv[1]
