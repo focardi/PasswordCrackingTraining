@@ -1,6 +1,9 @@
 # Automated Training of Password Cracking Tools
 
-This repository collects data and scripts of the paper "Automated Training of Password Cracking Tools".
+This repository collects data and scripts of the paper: 
+
+Di Campi, A.M., Focardi, R., Luccio, F.L. (2022). 
+The Revenge of Password Crackers: Automated Training of Password Cracking Tools. ESORICS 2022 [[DOI](https://doi.org/10.1007/978-3-031-17146-8_16)]
 
 ## Mask attacks
 
